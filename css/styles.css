@@ -9,9 +9,11 @@ body {
 }
 
 .hero-banner {
-    background-color: #f5f5f5;
-    padding: 20px 0;
+  background-color: #f5f5f5;
+  padding: 20px 0;
+  
 }
+
 
 .floatcard-dark {
   margin: 20px;
@@ -209,3 +211,7 @@ body {
 .skew-content {
   -webkit-transform: perspective(1000px) rotateX(22deg);
 }
+
+
+
+/*Flip Card effekts:*/
